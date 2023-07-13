@@ -1,4 +1,4 @@
-﻿# URL-Shortener
+z﻿# URL-Shortener
 
 This is a simple URL shortener application built using Express, Node.js, Nodemon, and MongoDB. It allows users to shorten long URLs into short and easy-to-share links.
 
@@ -30,3 +30,11 @@ This is a simple URL shortener application built using Express, Node.js, Nodemon
    ```
    This will start the server on http://localhost:3000.
    
+   1. Open your web browser and navigate to http://localhost:3000 to access the URL shortener application.
+   2. Shorten a URL:
+      -Enter a long URL into the provided input field on the homepage.
+      -Click the "Shorten" button to generate a shortened URL.
+      -The shortened URL will be displayed below the input field.
+   3. Access a shortened URL:
+      -Copy the shortened URL and share it with others.
+      -When someone accesses the shortened URL, they will be redirected to the original long URL.
