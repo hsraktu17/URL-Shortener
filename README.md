@@ -16,5 +16,9 @@ This is a simple URL shortener application built using Express, Node.js, Nodemon
    cd url-shortener
    npm install
    ```
-
    
+3. Configure the MongoDB connection:
+   -Make sure you have MongoDB installed and running on your system.
+   -Open the `config.js` file and update the MongoDB URI to point to your MongoDB server.
+   
+## Usage
