@@ -6,15 +6,15 @@ This is a simple URL shortener application built using Express, Node.js, Nodemon
 
 1. Clone the repository:
    
-   '''
+   ```
    git clone https://github.com/your-username/url-shortener.git
-   '''
+   ```
    
 2. Install the dependencies:
 
-   '''
+   ```
    cd url-shortener
    npm install
-   '''
+   ```
 
    
