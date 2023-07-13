@@ -22,3 +22,11 @@ This is a simple URL shortener application built using Express, Node.js, Nodemon
    -Open the `config.js` file and update the MongoDB URI to point to your MongoDB server.
    
 ## Usage
+
+1. Start the Application
+
+   ```
+   npm start
+   ```
+   This will start the server on http://localhost:3000.
+   
