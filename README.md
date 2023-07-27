@@ -28,9 +28,9 @@ This is a simple URL shortener application built using Express, Node.js, Nodemon
    ```
    npm start
    ```
-   This will start the server on http://localhost:3000.
+   This will start the server on http://localhost:8000.
    
-   1. Open your web browser and navigate to http://localhost:3000 to access the URL shortener application.
+   1. Open your web browser and navigate to http://localhost:8000 to access the URL shortener application.
    2. Shorten a URL:
       -Enter a long URL into the provided input field on the homepage.
       -Click the "Shorten" button to generate a shortened URL.
